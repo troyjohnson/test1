@@ -5,9 +5,5 @@ And the file has now been modified.
 
 And the file is modified again.
 
-Now with new and improved modifications!
-
-Master! Master!
-
-Of puppet.
+And back to the old ways.
 
